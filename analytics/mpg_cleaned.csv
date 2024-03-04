@@ -31,7 +31,6 @@ usa,hi 1200d,8,70,9.0,304.0,193.0,4732,18.5
 japan,datsun pl510,4,71,27.0,97.0,88.0,2130,14.5
 usa,chevrolet vega 2300,4,71,28.0,140.0,90.0,2264,15.5
 japan,toyota corona,4,71,25.0,113.0,95.0,2228,14.0
-usa,ford pinto,4,71,25.0,98.0,,2046,19.0
 usa,amc gremlin,6,71,19.0,232.0,100.0,2634,13.0
 usa,plymouth satellite custom,6,71,16.0,225.0,105.0,3439,15.5
 usa,chevrolet chevelle malibu,6,71,17.0,250.0,100.0,3329,15.5
@@ -125,7 +124,6 @@ europe,saab 99le,4,73,24.0,121.0,110.0,2660,14.0
 japan,toyota mark ii,6,73,20.0,156.0,122.0,2807,13.5
 usa,oldsmobile omega,8,73,11.0,350.0,180.0,3664,11.0
 usa,plymouth duster,6,74,20.0,198.0,95.0,3102,16.5
-usa,ford maverick,6,74,21.0,200.0,,2875,17.0
 usa,amc hornet,6,74,19.0,232.0,100.0,2901,16.0
 usa,chevrolet nova,6,74,15.0,250.0,100.0,3336,17.0
 japan,datsun b210,4,74,31.0,79.0,67.0,1950,19.0
@@ -329,13 +327,11 @@ europe,vw dasher (diesel),4,80,43.4,90.0,48.0,2335,23.7
 europe,audi 5000s (diesel),5,80,36.4,121.0,67.0,2950,19.9
 europe,mercedes-benz 240d,4,80,30.0,146.0,67.0,3250,21.8
 japan,honda civic 1500 gl,4,80,44.6,91.0,67.0,1850,13.8
-europe,renault lecar deluxe,4,80,40.9,85.0,,1835,17.3
 japan,subaru dl,4,80,33.8,97.0,67.0,2145,18.0
 europe,vokswagen rabbit,4,80,29.8,89.0,62.0,1845,15.3
 japan,datsun 280-zx,6,80,32.7,168.0,132.0,2910,11.4
 japan,mazda rx-7 gs,3,80,23.7,70.0,100.0,2420,12.5
 europe,triumph tr7 coupe,4,80,35.0,122.0,88.0,2500,15.1
-usa,ford mustang cobra,4,80,23.6,140.0,,2905,14.3
 japan,honda accord,4,80,32.4,107.0,72.0,2290,17.0
 usa,plymouth reliant,4,81,27.2,135.0,84.0,2490,15.7
 usa,buick skylark,4,81,26.6,151.0,84.0,2635,16.4
@@ -353,7 +349,6 @@ usa,plymouth horizon 4,4,81,34.7,105.0,63.0,2215,14.9
 usa,ford escort 4w,4,81,34.4,98.0,65.0,2045,16.2
 usa,ford escort 2h,4,81,29.9,98.0,65.0,2380,20.7
 europe,volkswagen jetta,4,81,33.0,105.0,74.0,2190,14.2
-europe,renault 18i,4,81,34.5,100.0,,2320,15.8
 japan,honda prelude,4,81,33.7,107.0,75.0,2210,14.4
 japan,toyota corolla,4,81,32.4,108.0,75.0,2350,16.8
 japan,datsun 200sx,4,81,32.9,119.0,100.0,2615,14.8
@@ -373,7 +368,6 @@ usa,pontiac j2000 se hatchback,4,82,31.0,112.0,85.0,2575,16.2
 usa,dodge aries se,4,82,29.0,135.0,84.0,2525,16.0
 usa,pontiac phoenix,4,82,27.0,151.0,90.0,2735,18.0
 usa,ford fairmont futura,4,82,24.0,140.0,92.0,2865,16.4
-usa,amc concord dl,4,82,23.0,151.0,,3035,20.5
 europe,volkswagen rabbit l,4,82,36.0,105.0,74.0,1980,15.3
 japan,mazda glc custom l,4,82,37.0,91.0,68.0,2025,18.2
 japan,mazda glc custom,4,82,31.0,91.0,68.0,1970,17.6

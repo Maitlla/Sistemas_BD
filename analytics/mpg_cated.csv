@@ -31,7 +31,6 @@ usa,8,70,low,hi,9.0,304.0,193.0,4732,18.5
 japan,4,71,medium,datsun,27.0,97.0,88.0,2130,14.5
 usa,4,71,medium,chevrolet,28.0,140.0,90.0,2264,15.5
 japan,4,71,medium,toyota,25.0,113.0,95.0,2228,14.0
-usa,4,71,medium,ford,25.0,98.0,,2046,19.0
 usa,6,71,medium,amc,19.0,232.0,100.0,2634,13.0
 usa,6,71,low,plymouth,16.0,225.0,105.0,3439,15.5
 usa,6,71,medium,chevrolet,17.0,250.0,100.0,3329,15.5
@@ -125,7 +124,6 @@ europe,4,73,medium,saab,24.0,121.0,110.0,2660,14.0
 japan,6,73,medium,toyota,20.0,156.0,122.0,2807,13.5
 usa,8,73,low,oldsmobile,11.0,350.0,180.0,3664,11.0
 usa,6,74,medium,plymouth,20.0,198.0,95.0,3102,16.5
-usa,6,74,medium,ford,21.0,200.0,,2875,17.0
 usa,6,74,medium,amc,19.0,232.0,100.0,2901,16.0
 usa,6,74,low,chevrolet,15.0,250.0,100.0,3336,17.0
 japan,4,74,high,datsun,31.0,79.0,67.0,1950,19.0
@@ -329,13 +327,11 @@ europe,4,80,high,vw,43.4,90.0,48.0,2335,23.7
 europe,5,80,high,audi,36.4,121.0,67.0,2950,19.9
 europe,4,80,high,mercedes-benz,30.0,146.0,67.0,3250,21.8
 japan,4,80,high,honda,44.6,91.0,67.0,1850,13.8
-europe,4,80,high,renault,40.9,85.0,,1835,17.3
 japan,4,80,high,subaru,33.8,97.0,67.0,2145,18.0
 europe,4,80,high,vokswagen,29.8,89.0,62.0,1845,15.3
 japan,6,80,high,datsun,32.7,168.0,132.0,2910,11.4
 japan,3,80,medium,mazda,23.7,70.0,100.0,2420,12.5
 europe,4,80,high,triumph,35.0,122.0,88.0,2500,15.1
-usa,4,80,medium,ford,23.6,140.0,,2905,14.3
 japan,4,80,high,honda,32.4,107.0,72.0,2290,17.0
 usa,4,81,medium,plymouth,27.2,135.0,84.0,2490,15.7
 usa,4,81,medium,buick,26.6,151.0,84.0,2635,16.4
@@ -353,7 +349,6 @@ usa,4,81,high,plymouth,34.7,105.0,63.0,2215,14.9
 usa,4,81,high,ford,34.4,98.0,65.0,2045,16.2
 usa,4,81,high,ford,29.9,98.0,65.0,2380,20.7
 europe,4,81,high,volkswagen,33.0,105.0,74.0,2190,14.2
-europe,4,81,high,renault,34.5,100.0,,2320,15.8
 japan,4,81,high,honda,33.7,107.0,75.0,2210,14.4
 japan,4,81,high,toyota,32.4,108.0,75.0,2350,16.8
 japan,4,81,high,datsun,32.9,119.0,100.0,2615,14.8
@@ -373,7 +368,6 @@ usa,4,82,high,pontiac,31.0,112.0,85.0,2575,16.2
 usa,4,82,medium,dodge,29.0,135.0,84.0,2525,16.0
 usa,4,82,medium,pontiac,27.0,151.0,90.0,2735,18.0
 usa,4,82,medium,ford,24.0,140.0,92.0,2865,16.4
-usa,4,82,medium,amc,23.0,151.0,,3035,20.5
 europe,4,82,high,volkswagen,36.0,105.0,74.0,1980,15.3
 japan,4,82,high,mazda,37.0,91.0,68.0,2025,18.2
 japan,4,82,high,mazda,31.0,91.0,68.0,1970,17.6
